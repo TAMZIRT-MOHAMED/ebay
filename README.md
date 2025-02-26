@@ -1,4 +1,5 @@
 # eBay Scraper
+![Neutral Creative Professional LinkedIn Article Cover Image (1)](https://github.com/user-attachments/assets/3bbbabb3-8602-4301-a64c-b6f826338b44)
 
 ## Description
 This project is a web scraper for extracting product listings from eBay's Electronics category. It uses Python's `requests` and `BeautifulSoup` libraries to fetch and parse data from eBay. The scraper navigates eBay's product listing pages, collects relevant product URLs, and extracts detailed information such as product names, prices, and availability.
